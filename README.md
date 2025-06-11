@@ -20,4 +20,4 @@ This is an open source script, you can fix it yourself if issues occur.
 - Image size will scale with your image, I just used a small one.
 
 COMING SOON
-![Example]()
+![Example](https://imgur.com/KiSS3hG)
